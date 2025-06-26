@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on **Collab Platform**  
 - 🌱 Exploring **Machine Learning**, **Prisma**, and clean backend architecture  
-- 🧠 Organizer of **DATAHACK** | Logistics Manager @ **RELEV (CSE ESI)**  
+- 🧠 Logistics Manager **CSE**  
 - 💬 I enjoy building things with **Next.js**, **React**, **Flutter**, and more  
 - 🧑‍💻 I’ve contributed to websites, mobile apps, and internal tools for my club and academic projects
 
