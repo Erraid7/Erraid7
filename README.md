@@ -41,19 +41,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Erraid7&show_icons=true&theme=dark&hide_border=true](https://github-stats-extended.vercel.app/api?username=Erraid7&rank_icon=github&show_icons=true&include_all_commits=true&theme=vue)" width="48%" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Erraid7&layout=compact&theme=dark&hide_border=true](https://github-stats-extended.vercel.app/api/top-langs?username=Erraid7&layout=compact&langs_count=6)" width="37%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Erraid7&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Erraid7&layout=compact&langs_count=6&theme=dark" width="37%" />
 </p>
 
----
-
-## 🚀 Projects & Contributions
-
-<p align="center">
-  
-</p>
-
----
 
 ## ✍️ Dev Quote
 
